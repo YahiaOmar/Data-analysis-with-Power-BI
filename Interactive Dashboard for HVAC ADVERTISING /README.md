@@ -1,7 +1,11 @@
+I developed a fully interactive, multi-page dashboard seamlessly embedded into the client's website to provide a smooth and intuitive user experience. This project features:
 
 ✅ 3 Responsive Dashboard Pages – Designed with clarity and usability in mind, allowing end-users to navigate through key business metrics effortlessly.
+
 ✅ Live Spreadsheet Integration – The dashboard is dynamically connected to a Google Spreadsheet, allowing the client to update data easily without needing to touch the backend.
+
 ✅ Website Embedding – Integrated directly into the client’s site, providing a native look and feel for end users.
+
 ✅ Data-Driven Decisions – Supports real-time updates and accurate visual insights tailored to the client's specific KPIs.
 
 This solution empowers clients to maintain and manage their data effortlessly while delivering a professional, on-brand analytical experience to their users.
